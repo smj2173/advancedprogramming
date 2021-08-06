@@ -1,0 +1,4 @@
+Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/cs3157/mykey.pub
